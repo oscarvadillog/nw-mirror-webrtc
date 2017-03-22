@@ -1,0 +1,16 @@
+{
+  "name": "nw-mirror-webrtc",
+  "version": "1.0.0",
+  "description": "Simple mirror use case based on NW.js and WebRTC",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nw src"
+  },
+  "author": "Oscar Vadillo",
+  "license": "MIT",
+  "dependencies": {
+    "nw": "^0.21.3",
+    "webrtc-adapter": "^3.2.0"
+  }
+}
