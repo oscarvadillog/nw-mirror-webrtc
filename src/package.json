@@ -1,0 +1,15 @@
+{
+  "name": "mirror",
+  "main": "app.html",
+  "window": {
+    "icon": "assets/webrtc.png",
+    "show": false,
+    "frame": true,
+    "position": "center",
+    "width": 640,
+    "height": 480
+  },
+  "scripts": {
+    "start": "nw ."
+  }
+}

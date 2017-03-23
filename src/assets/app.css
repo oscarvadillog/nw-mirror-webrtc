@@ -1,0 +1,14 @@
+html, body, video {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+video {
+    display: block;
+    -moz-transform: scaleX(-1);    /* Gecko */
+    -o-transform: scaleX(-1);      /* Opera */
+    -webkit-transform: scaleX(-1); /* Webkit */
+    transform: scaleX(-1);         /* Standard */
+    filter: FlipH;                 /* IE 6/7/8 */
+}
