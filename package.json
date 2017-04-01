@@ -10,6 +10,7 @@
   "author": "Oscar Vadillo",
   "license": "MIT",
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.0",
     "nw": "^0.21.3",
     "webrtc-adapter": "^3.2.0"
   }
