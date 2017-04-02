@@ -3,11 +3,12 @@
   "main": "app.html",
   "window": {
     "icon": "assets/webrtc.png",
-    "show": false,
+    "show": true,
     "frame": true,
     "position": "center",
     "width": 640,
-    "height": 480
+    "height": 480,
+    "toolbar": true
   },
   "scripts": {
     "start": "nw ."
