@@ -1,1 +1,4 @@
 node_modules/
+src/snapshots
+src/**.webm
+src/**.avi
