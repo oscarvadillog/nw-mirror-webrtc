@@ -10,6 +10,9 @@
   "author": "Oscar Vadillo",
   "license": "MIT",
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.9",
+    "@ffprobe-installer/ffprobe": "^1.0.6",
+    "ffprobe": "^1.1.0",
     "fluent-ffmpeg": "^2.1.0",
     "nw": "^0.21.3",
     "webrtc-adapter": "^3.2.0"
